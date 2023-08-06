@@ -2,10 +2,14 @@
 
 ## Day1 (日)
 
+### Issue
+
+
 ```
 這一天最多只有半天時間
 所以要在所有行程確定後，再排上剩下比較想去的行程
 ```
+### 行程
 
 
 - [ ] 梅田站
@@ -141,5 +145,15 @@
 - [ ] [美利堅公園＆神戶港夜景](https://www.bring-you.info/zh-tw/night-view-of-kobe-port-tower)
 
 ## Day8 (日)
+
+### Issue
+
+```
+事先考慮要買什麼，到時候直接去買不要手忙腳亂
+可以事件去看有什麼活動嗎？
+```
+
+### 行程
+
 
 - [x] [臨空PREMIUM OUTLETS](https://mimihan.tw/rinku-premium-outlet/)
