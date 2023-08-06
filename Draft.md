@@ -41,7 +41,6 @@
 - [ ] 銀閣寺
 - [ ] 哲學之道
 - [ ] 高台寺
-- [ ] 黑門市場
 - [ ] 清水寺
   - [ ] 岡本和服
   - [ ] 音羽瀑布
@@ -70,9 +69,40 @@
 
 ### 大阪市
 
-- [ ] 環球影城
-- [ ] 
+- [x] [難波心齋橋](https://mimihan.tw/shinsai-bashi/)
+  - [ ] 固力果跑跑男
+  - [ ] 道頓堀美食街
+  - [ ] [黑門市場](https://mimihan.tw/kuromon-market/)
+- [x] [環球影城](https://mimihan.tw/universal-studios-japan/)
+- [ ] 大阪港
+  - [ ] 海遊館
+  - [ ] 空庭溫泉
+  - [ ] 天守閣
+  - [ ] [天保山摩天輪](https://mimihan.tw/tempozan-wheel/)
+  - [ ] [聖瑪麗亞號](https://mimihan.tw/santamaria/)
+- [ ] [臨空PREMIUM OUTLETS](https://mimihan.tw/rinku-premium-outlet/)
+- [ ] 天王寺
+  - [ ] ~~大阪動物園~~
+  - [ ] ~~[通天閣](https://mimihan.tw/osaka-tsutenkaku/)~~
+  - [ ] [阿倍野展望台](https://mimihan.tw/harukas-300/)
+- [ ] ~~大阪城（賞櫻，查是否為櫻花季）~~
+  - [ ] ~~大阪造幣局~~
+  - [ ] ~~櫻之宮公園~~
+- [ ] 梅田站
+  - [ ] ~~[浪速之湯](https://bobby.tw/blog/post/228286619)~~
+  - [ ] [大阪生活今昔館](https://mimihan.tw/konjyakukan/)
+  - [ ] [天神橋筋商店街](https://mimihan.tw/tenjin-street/)
+  - [ ] [梅田藍天大樓夜景](https://mimihan.tw/kuchu-teien/)
 
+
+### 神戶市
+
+- [ ] [北野異人館](https://osaka.letsgojp.com/archives/80182/)
+- [ ] [Red Rock牛肉丼](https://bobby.tw/blog/post/232063393)
+- [ ] [生田神社](https://www.bring-you.info/zh-tw/ikuta-jinja)
+- [ ] [神戶中華街 – 南京町](https://www.daisyyohoho.com/nankin-machi/)
+- [ ] [美利堅公園＆神戶港夜景](https://www.bring-you.info/zh-tw/night-view-of-kobe-port-tower)
+- [ ] [Steak Land](https://bobby.tw/blog/post/232614733)
 
 
 ### 滋賀縣
