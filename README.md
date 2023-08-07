@@ -22,31 +22,52 @@
 
 ### Issue
 
-- [ ] 訂哪家和服
+- [ ] 訂哪家和服(https://mimihan.tw/kimono-kyoto/)
   - [ ] 看看各種和服優缺點
   - [ ] [京都和服租賃 & 攝影體驗（Ouka提供）](https://www.klook.com/zh-TW/activity/77688-kimono-rental-and-photoshoot-by-ouka-kimono-kyoto/?spm=City.Popular%3Aany%3A%3AHotAct%3ACard_LIST&clickId=84e98c8f75)
   - [ ] [日本京都｜和香菜 和服體驗](https://www.kkday.com/zh-tw/product/25464-wakana-kimono-rental-experience-photography-makeup-hairstyle-kyoto)
 
+### [再討論一下從哪邊出花借還和服才順](https://mimihan.tw/kimono-kyoto/)
+- [ ] 看要在清水寺拍完照走完就歸還嗎？
 
 ### 行程
 
 - [ ] 岡本和服
   - [ ] 待確認，看要哪一家
-- [x] 清水寺
-  - [x] 音羽瀑布
+- [x] 清水寺 (從大阪至清水寺50分鐘)
+  - [x] 音羽瀑布(清水寺到音雨瀑布4分鐘)
   - [x] 三重塔
-  - [ ] ~~地主神社(整修中)~~
 - [ ] 祇園商店街
-  - [x] 花見小路
-  - [x] **午餐：[京都南禪寺順正 @ 京懷石湯豆腐](https://www.bigfang.tw/blog/post/shunzheng-tofu-kyoto)**
-- [x] 南禪寺
-- [x] 哲學之道
+  - [x] 花見小路(從從清水寺純走路大概要半小時)
+  - [ ]  2年坂/3年坂
+  - [ ]  八坂神社
+  - [ ]  河原町通商店街
+  - [x] **午餐：[京都南禪寺順正 @ 京懷石湯豆腐](https://www.bigfang.tw/blog/post/shunzheng-tofu-kyoto)**(祇園商店街到吃飯的地方搭電車或是走路都要半小時，開車10分鐘)
+- [x] 南禪寺(湯豆腐到南禪寺4分鐘)
+- [x] 哲學之道( 約略2小時)
 - [x] **晚餐：玄品ふぐ 河豚専門店**
 - [x] [高台寺：京都夜楓](https://eatlovephoto.com/blog/post/224096237)
 - [ ] 銀閣寺
-- [ ] 2年坂/3年坂
-- [ ] 八坂神社
-- [ ] 河原町通商店街
+
+### 交通
+
+- [ ] 清水寺
+ - [ ] 搭乘JR
+從JR大阪車站坐到京都車站，搭乘新快速列車，約需30分鐘，車資￥580 (教學：[如何搭JR從大阪到京都](https://nicklee.tw/499/) )
+再從「京都駅前」D1或D2站牌，搭乘京都市巴士「86號、206號」到五条坂或清水道下車，約20分鐘，車資￥230
+
+ - [ ] 搭乘阪急電鐵
+從大阪梅田站乘坐到京都河原町站，搭乘特急列車，約需45分鐘，車資￥410
+再從「四条河原町-E站牌」坐京都市巴士58號、86號或207號到清水道下車，約14分鐘，車資￥230
+
+ - [ ] 搭乘京阪電車
+a.從淀屋橋站坐到清水五条下車，約55min，車資￥430
+(清水五条是小站，特急列車未停靠，因此建議先坐到七条，再換乘準急或普通列車到清水五条下車)，
+這裡可以步行過去(約25min)或坐京都市巴士80號到五条阪或清水道(約15分鐘，車資￥230)
+
+## 備註
+- [ ] 清水寺入場門票，日間參拜全票300日圓；夜間特別參拜全票400日圓。
+      清水寺的開放時間通常是每天早上6:00開始，下午通常到傍晚5:30結束
 
 ## Day3 (二)
 
@@ -103,6 +124,10 @@
 ### 行程
 
 - [ ] [環球影城](https://mimihan.tw/universal-studios-japan/)
+- [ ] 11月萬聖節活動，哈利波特-與魔法生物的邂逅
+- [ ] 搭車時間(https://www.usj.co.jp/web/zh/tw/access#train&hash-id-accessparkinggenericcopyblock3tab1-textblockgeneric)
+ - [ ] 從大阪站、梅田站->環球影城 11分鐘
+ - [ ] 從新大阪站->環球影城 16分鐘
 
 ## Day6 (五)
 
