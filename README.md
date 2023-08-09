@@ -154,20 +154,26 @@ a.從淀屋橋站坐到清水五条下車，約55min，車資￥430
 ```
 
 - [ ] 選和牛餐廳
-  - [ ] [神戶牛排Ishida生田新道店](https://kobebeef-ishida.com/maindish/?lang=zh-hant)
   - [ ] [神戶牛排餐廳MOURIYA總店](https://www.mouriya.co.jp/zh-TW/menu)
   - [ ] [Steak Land](https://bobby.tw/blog/post/232614733)
 
 
 ### 行程
 
+- [ ] [生田神社](https://www.bring-you.info/zh-tw/ikuta-jinja)
+- [ ] 午餐
+  - [ ] [神戶牛排Ishida生田新道店](https://kobebeef-ishida.com/maindish/?lang=zh-hant)
+- [ ] [神戶中華街 – 南京町](https://www.daisyyohoho.com/nankin-machi/)
+- [ ] [美利堅公園＆神戶港夜景](https://www.bring-you.info/zh-tw/night-view-of-kobe-port-tower)
+  
+## 交通
+
+- [ ] 搭乘JR新快速-從大阪站搭乘JR新快速電車前往，車資410日圓，車程約21分鐘
+
 未排
 
 - [ ] [北野異人館](https://osaka.letsgojp.com/archives/80182/)
 - [ ] [Red Rock牛肉丼](https://bobby.tw/blog/post/232063393)
-- [ ] [生田神社](https://www.bring-you.info/zh-tw/ikuta-jinja)
-- [ ] [神戶中華街 – 南京町](https://www.daisyyohoho.com/nankin-machi/)
-- [ ] [美利堅公園＆神戶港夜景](https://www.bring-you.info/zh-tw/night-view-of-kobe-port-tower)
 
 ## Day8 (日)
 
