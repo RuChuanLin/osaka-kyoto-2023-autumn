@@ -1,24 +1,27 @@
 # 2023 秋 關西
 
-## Day1 (日)
+## Day1 (11/9, 四)
+
+**完成度：70%**
+
+```
+下機場直接去outlet逛街吃飯購物
+
+晚上先回飯店Check in, 再出來吃
+
+看夜景
+```
 
 ### Issue
 
-
-```
-這一天最多只有半天時間
-所以要在所有行程確定後，再排上剩下比較想去的行程
-```
 ### 行程
 
-
-- [ ] 梅田站
-  - [ ] ~~[浪速之湯](https://bobby.tw/blog/post/228286619)~~
-  - [ ] [大阪生活今昔館](https://mimihan.tw/konjyakukan/)
-  - [ ] [天神橋筋商店街](https://mimihan.tw/tenjin-street/)
-  - [ ] [梅田藍天大樓夜景](https://mimihan.tw/kuchu-teien/)
-
-## Day2 (一)
+- [x] [臨空PREMIUM OUTLETS](https://mimihan.tw/rinku-premium-outlet/)
+  - [ ] 三田屋本店
+- [ ] Check In
+- [ ] 寿司処かい原
+- [ ] [梅田藍天大樓夜景](https://mimihan.tw/kuchu-teien/)
+## Day2 (11/10, 五)
 
 ### Issue
 
@@ -65,12 +68,11 @@ a.從淀屋橋站坐到清水五条下車，約55min，車資￥430
 (清水五条是小站，特急列車未停靠，因此建議先坐到七条，再換乘準急或普通列車到清水五条下車)，
 這裡可以步行過去(約25min)或坐京都市巴士80號到五条阪或清水道(約15分鐘，車資￥230)
 
-## 備註
+### 備註
 - [ ] 清水寺入場門票，日間參拜全票300日圓；夜間特別參拜全票400日圓。
       清水寺的開放時間通常是每天早上6:00開始，下午通常到傍晚5:30結束
 
-## Day3 (二)
-
+## Day3 (11/11, 六)
 
 ### Issue
 
@@ -89,16 +91,47 @@ a.從淀屋橋站坐到清水五条下車，約55min，車資￥430
     - [【京都】嵐山一日遊：經典散步路線、景點美食＆交通建議，秋遊嵐山好愜意](https://mimihan.tw/arashiyama/)
 - [ ] 晚餐：初田和牛便當
 
-## Day4 (三)
+## Day4 (11/12, 日)
+
+```
+伊根
+```
 
 ### Issue
+
+### 行程
+
+
+## Day5 (11/13, 一)
+
+```
+和歌山
+```
+
+### Issue
+
+### 行程
+
+- [ ] 那智瀑布(熊野速玉大社)
+- [ ] 黑潮市場
+  - [ ] 鮪魚解體秀
+- [ ] 溫泉二選一
+  - [ ] 白濱溫泉
+  - [ ] 勝浦溫泉
+- [ ] 紅葉溪庭園
+
+## Day6 (11/14, 二)
 
 ```
 這一天主要以逛街為主，應該是午晚餐最難決定的一天
 ```
 
+### Issue
+
+
 - [ ] 逛什麼？
 - [ ] 吃什麼？
+  - [ ] 午餐：和牛
 
 ### 行程
 
@@ -106,9 +139,11 @@ a.從淀屋橋站坐到清水五条下車，約55min，車資￥430
   - [ ] [黑門市場](https://mimihan.tw/kuromon-market/)
 - [ ] 梅田
   - [ ] 浪速溫泉
-  - [ ] [梅田藍天大樓夜景](https://mimihan.tw/kuchu-teien/)
+  - [ ] [大阪生活今昔館](https://mimihan.tw/konjyakukan/)
+  - [ ] [天神橋筋商店街](https://mimihan.tw/tenjin-street/)
 
-## Day5 (四)
+## Day7 (11/15, 三)
+
 
 ### Issue
 
@@ -129,7 +164,7 @@ a.從淀屋橋站坐到清水五条下車，約55min，車資￥430
  - [ ] 從大阪站、梅田站->環球影城 11分鐘
  - [ ] 從新大阪站->環球影城 16分鐘
 
-## Day6 (五)
+## Day8 (11/16, 四)
 
 ### Issue
 
@@ -145,37 +180,8 @@ a.從淀屋橋站坐到清水五条下車，約55min，車資￥430
   - [x] 天保山摩天輪
   - [x] 空庭溫泉
 
-## Day7 (六)
 
-### Issue
-
-```
-重點：吃好吃的和牛
-```
-
-- [ ] 選和牛餐廳
-  - [ ] [神戶牛排餐廳MOURIYA總店](https://www.mouriya.co.jp/zh-TW/menu)
-  - [ ] [Steak Land](https://bobby.tw/blog/post/232614733)
-
-
-### 行程
-
-- [ ] [生田神社](https://www.bring-you.info/zh-tw/ikuta-jinja)
-- [ ] 午餐
-  - [ ] [神戶牛排Ishida生田新道店](https://kobebeef-ishida.com/maindish/?lang=zh-hant)
-- [ ] [神戶中華街 – 南京町](https://www.daisyyohoho.com/nankin-machi/)
-- [ ] [美利堅公園＆神戶港夜景](https://www.bring-you.info/zh-tw/night-view-of-kobe-port-tower)
-  
-## 交通
-
-- [ ] 搭乘JR新快速-從大阪站搭乘JR新快速電車前往，車資410日圓，車程約21分鐘
-
-未排
-
-- [ ] [北野異人館](https://osaka.letsgojp.com/archives/80182/)
-- [ ] [Red Rock牛肉丼](https://bobby.tw/blog/post/232063393)
-
-## Day8 (日)
+## Day9 (11/17, 五)
 
 ### Issue
 
