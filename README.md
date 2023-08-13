@@ -2,15 +2,15 @@
 
 ## Day1 (11/9, 四)
 
-**完成度：70%**
-
 ```
-下機場直接去outlet逛街吃飯購物
+下機場直接去outlet逛街吃午餐購物
 
-晚上先回飯店Check in, 再出來吃
+晚上先回飯店Check in, 再出來吃晚餐
 
 看夜景
 ```
+### TODO
+- [ ] 查好要換什麼票
 
 ### Issue
 
@@ -23,33 +23,36 @@
 - [ ] [梅田藍天大樓夜景](https://mimihan.tw/kuchu-teien/)
 ## Day2 (11/10, 五)
 
+```
+當天可能需要早點出門
+
+早上走完清水寺，祇園
+```
+
 ### Issue
-
-- [ ] 訂哪家和服(https://mimihan.tw/kimono-kyoto/)
-  - [ ] 看看各種和服優缺點
-  - [ ] [京都和服租賃 & 攝影體驗（Ouka提供）](https://www.klook.com/zh-TW/activity/77688-kimono-rental-and-photoshoot-by-ouka-kimono-kyoto/?spm=City.Popular%3Aany%3A%3AHotAct%3ACard_LIST&clickId=84e98c8f75)
-  - [ ] [日本京都｜和香菜 和服體驗](https://www.kkday.com/zh-tw/product/25464-wakana-kimono-rental-experience-photography-makeup-hairstyle-kyoto)
-
-### [再討論一下從哪邊出花借還和服才順](https://mimihan.tw/kimono-kyoto/)
-- [ ] 看要在清水寺拍完照走完就歸還嗎？
 
 ### 行程
 
-- [ ] 岡本和服
-  - [ ] 待確認，看要哪一家
+- [ ] 和服體驗（TODO：待討論）
 - [x] 清水寺 (從大阪至清水寺50分鐘)
   - [x] 音羽瀑布(清水寺到音雨瀑布4分鐘)
   - [x] 三重塔
-- [ ] 祇園商店街
-  - [x] 花見小路(從從清水寺純走路大概要半小時)
-  - [ ]  2年坂/3年坂
-  - [ ]  八坂神社
-  - [ ]  河原町通商店街
-  - [x] **午餐：[京都南禪寺順正 @ 京懷石湯豆腐](https://www.bigfang.tw/blog/post/shunzheng-tofu-kyoto)**(祇園商店街到吃飯的地方搭電車或是走路都要半小時，開車10分鐘)
+- [x] 歸還和服
+- [x] **午餐：[京都南禪寺順正 @ 京懷石湯豆腐](https://www.bigfang.tw/blog/post/shunzheng-tofu-kyoto)**(祇園商店街到吃飯的地方搭電車或是走路都要半小時，開車10分鐘)
+
 - [x] 南禪寺(湯豆腐到南禪寺4分鐘)
-- [x] 哲學之道( 約略2小時)
+- [x] 祇園商店街
+  - [x] 花見小路(從從清水寺純走路大概要半小時)
+  - [x]  2年坂/3年坂
+  - [x]  八坂神社
+  - [x]  河原町通商店街
 - [x] **晚餐：玄品ふぐ 河豚専門店**
 - [x] [高台寺：京都夜楓](https://eatlovephoto.com/blog/post/224096237)
+
+
+### 備案行程
+
+- [ ] 哲學之道
 - [ ] 銀閣寺
 
 ### 交通
