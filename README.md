@@ -16,10 +16,10 @@
 ### 行程
 
 - [x] [臨空PREMIUM OUTLETS](https://mimihan.tw/rinku-premium-outlet/)
-  - [x] Komeraku ～Rice in Soup, Fried Chicken
+  - [x] **午餐：Komeraku ～Rice in Soup, Fried Chicken**
 - [x] Check In
 - [x] 道頓堀
-  - [x] **午餐：[自由軒](https://bobby.tw/blog/post/226565162-%E3%80%90%E5%A4%A7%E9%98%AA%E9%9B%A3%E6%B3%A2%E3%80%91%E8%87%AA%E7%94%B1%E8%BB%92%E5%92%96%E5%93%A9%E9%A3%AF%EF%BC%9A%E6%9C%80%E5%8F%A4%E8%80%81%E8%A5%BF%E9%A4%90%E5%BB%B3%EF%BC%8C)**
+  - [x] **晚餐：[自由軒](https://bobby.tw/blog/post/226565162-%E3%80%90%E5%A4%A7%E9%98%AA%E9%9B%A3%E6%B3%A2%E3%80%91%E8%87%AA%E7%94%B1%E8%BB%92%E5%92%96%E5%93%A9%E9%A3%AF%EF%BC%9A%E6%9C%80%E5%8F%A4%E8%80%81%E8%A5%BF%E9%A4%90%E5%BB%B3%EF%BC%8C)**
   - [x] 固力果跑跑人
 
 ```
@@ -214,7 +214,7 @@ a.從淀屋橋站坐到清水五条下車，約55min，車資￥430
 
 
 - [x] 黑門市場
-  - [x] 在這解決午餐，可以盡量吃
+  - [x] **午餐：邊逛邊吃**
 - [x] 心齋橋筋商店街
 - [x] 道頓堀
   - [x] 道頓堀水上觀光船
@@ -266,7 +266,7 @@ a.從淀屋橋站坐到清水五条下車，約55min，車資￥430
   - [x] 天保山摩天輪(Optional)
   - [x] 空庭溫泉
     - [x] 泡湯
-    - [x] 晚餐：空庭溫泉用餐區
+    - [x] **晚餐：空庭溫泉用餐區**
     - [x] 泡腳
     - [x] 逛空庭
 
@@ -281,6 +281,6 @@ a.從淀屋橋站坐到清水五条下車，約55min，車資￥430
 
 ### 行程
 
-- [x] 早餐：便利商店早餐(推薦LAWSON)
+- [x] **早餐：便利商店早餐(推薦LAWSON)**
 - [x] [臨空PREMIUM OUTLETS](https://mimihan.tw/rinku-premium-outlet/)
 - [x] 關西機場
